@@ -1,2 +1,2 @@
 # Redes-Neurais-Artificiais
-Repositório com códigos de redes para monitoria, em R e Python
+Repositório com códigos de redes neurais, em R e Python
